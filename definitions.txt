@@ -1,0 +1,11 @@
+Comando básico para escribir algo en Ruby.
+puts
+
+Valor que significa “absolutamente nada” en Ruby.
+nil
+
+Palabra clave para crear una clase en Ruby.
+class
+
+Método especial que se llama cada vez que se crea un objeto.
+initialize
